@@ -7,17 +7,13 @@ public class Problem03 {
         Scanner scanner = new Scanner(System.in);
         String[] words = scanner.nextLine().split(" ");
         int max_length = Integer.MIN_VALUE;
+        String answer = "";
         for (String word : words) {
             if (word.length() > max_length) {
                 max_length = word.length();
+                answer = word;
             }
         }
-        for (String word : words) {
-            if (word.length() == max_length) {
-                System.out.println(word);
-                return ;
-            }
-        }
+        System.out.println(answer);
     }
-
 }
