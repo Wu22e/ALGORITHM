@@ -2,7 +2,8 @@ package inflearn;
 
 import java.util.Scanner;
 
-public class Problem06 {
+public class Problem06_1 {
+    // contains 사용
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         char[] input = scanner.nextLine().toCharArray();
