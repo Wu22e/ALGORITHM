@@ -3,7 +3,7 @@ package inflearn;
 import java.util.Scanner;
 
 public class Problem08_2 {
-    // reverse 사용
+    // reverse 사용, replaceAll정규식 이용
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String input = scanner.nextLine();
