@@ -1,8 +1,9 @@
-package inflearn;
+package inflearn.string;
 
 import java.util.Scanner;
 
-public class Problem09 {
+public class Problem09_2 {
+	// isDigit 이용 | 조건식을 이용한 숫자 추출
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		char[] input = scanner.nextLine().toCharArray();
