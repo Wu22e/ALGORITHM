@@ -2,7 +2,8 @@ package inflearn.string;
 
 import java.util.Scanner;
 
-public class Problem10 {
+public class Problem10_2 {
+	// 이중 포문으로 타겟값 매번 비교하기
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		char[] s = scanner.next().toCharArray();
