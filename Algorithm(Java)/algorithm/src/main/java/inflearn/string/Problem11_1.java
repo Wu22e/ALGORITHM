@@ -2,7 +2,8 @@ package inflearn.string;
 
 import java.util.Scanner;
 
-public class Problem11 {
+public class Problem11_1 {
+	// 이전 값 기억
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		String input = scanner.nextLine();
