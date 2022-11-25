@@ -2,7 +2,7 @@ package inflearn.string;
 
 import java.util.Scanner;
 
-public class Problem12 {
+public class Problem12_1 {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		int N = scanner.nextInt();
@@ -10,7 +10,7 @@ public class Problem12 {
 		String answer = "";
 		for (int i = 0; i < N; i++) {
 			String answer_string = "";
-			for (char c : input.substring(i * 7, i * 7 + 7).toCharArray()) {
+			for (char c : input.substring(i * 7, (i + 1) * 7).toCharArray()) {
 				if (c == '#') answer_string += '1';
 				else answer_string += '0';
 			}
