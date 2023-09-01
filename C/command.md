@@ -1,0 +1,1 @@
+g++ -std=c++17 -Wall {source code name}.cpp -o {exe file name}
