@@ -11,3 +11,7 @@
 
 MIT 강의
 - https://www.youtube.com/watch?v=HtSuA80QTyo&list=PLUl4u3cNGP61Oq3tWYp6V_F-5jb5L2iHb
+
+## Cracking The Coding Interview Solutions (6th)
+
+https://github.com/careercup/CtCI-6th-Edition
