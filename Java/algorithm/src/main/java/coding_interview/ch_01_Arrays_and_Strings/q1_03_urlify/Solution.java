@@ -1,4 +1,4 @@
-package coding_interview.ch_01_arrays_and_Strings.q1_03_urlify;
+package coding_interview.ch_01_Arrays_and_Strings.q1_03_urlify;
 
 import java.util.Arrays;
 import java.util.stream.Collectors;

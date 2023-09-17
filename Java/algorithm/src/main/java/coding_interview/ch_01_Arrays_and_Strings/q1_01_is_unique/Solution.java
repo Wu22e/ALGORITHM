@@ -1,4 +1,4 @@
-package coding_interview.ch_01_arrays_and_Strings.q1_01_is_unique;
+package coding_interview.ch_01_Arrays_and_Strings.q1_01_is_unique;
 
 import java.util.HashSet;
 import java.util.Set;

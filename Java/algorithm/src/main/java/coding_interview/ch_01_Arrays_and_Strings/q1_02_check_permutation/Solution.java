@@ -1,4 +1,4 @@
-package coding_interview.ch_01_arrays_and_Strings.q1_02_check_permutation;
+package coding_interview.ch_01_Arrays_and_Strings.q1_02_check_permutation;
 
 import java.util.Arrays;
 
